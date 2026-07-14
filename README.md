@@ -9,12 +9,10 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4)
-![Git](https://img.shields.io/badge/Git-Version_Control-orange)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-success)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://bank-fraud-dashboard-c4esada6b0f0fkdp.francecentral-01.azurewebsites.net/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/adys-s/bank-fraud-analytics-dashboard)
+[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-brightgreen)](https://bank-fraud-dashboard-c4esada6b0f0fkdp.francecentral-01.azurewebsites.net/)
 
+[![GitHub Repository](https://img.shields.io/badge/📂-GitHub_Repository-black)](https://github.com/adys-s/bank-fraud-analytics-dashboard)
 ---
 
 # 📖 Présentation
