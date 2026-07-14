@@ -208,7 +208,7 @@ bank-fraud-analytics-dashboard/
 
 La page d'accueil présente les indicateurs clés du projet et les objectifs de l'analyse.
 
-![Accueil](actifs/Page_Acc.png)
+![Accueil](assets/Page_Acc.png)
 
 
 ---
