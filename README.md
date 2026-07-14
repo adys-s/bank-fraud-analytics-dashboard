@@ -2,16 +2,28 @@
 
 > Dashboard interactif d'analyse exploratoire des fraudes bancaires développé avec **Python**, **Streamlit** et **Microsoft Azure**.
 
+# 🛡️ Bank Fraud Analytics Dashboard
+
+> Dashboard interactif d'analyse exploratoire des fraudes bancaires développé avec **Python**, **Streamlit** et **Microsoft Azure**.
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4)
-![GitHub](https://img.shields.io/badge/GitHub-Actions-black)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-success)
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://bank-fraud-dashboard-c4esada6b0f0fkdp.francecentral-01.azurewebsites.net/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/adys-s/bank-fraud-analytics-dashboard)
 
 ---
 
 # 📖 Présentation
 
-Ce projet présente une **Analyse Exploratoire des Données (EDA)** réalisée sur un jeu de données contenant **5 millions de transactions bancaires**.
+Ce projet présente une **Analyse Exploratoire des Données (EDA)** réalisée sur un jeu de données contenant :
+
+- 5 000 000 transactions
+- 179 553 transactions frauduleuses
+- un taux de fraude de 3,59 %
 
 L'objectif est d'explorer les données, d'identifier les comportements frauduleux et de mettre en évidence les principaux indicateurs de fraude à travers un **dashboard interactif**.
 
@@ -52,6 +64,8 @@ Le dashboard est composé des pages suivantes :
 Au cours de ce projet, les étapes suivantes ont été réalisées :
 
 ## 📌 1. Analyse exploratoire des données (EDA)
+
+L'ensemble de l'analyse exploratoire a été réalisé dans un notebook Jupyter avant le développement du dashboard interactif.
 
 - Exploration du jeu de données
 - Analyse statistique
@@ -259,15 +273,9 @@ streamlit run app.py
 
 # 🌐 Démonstration
 
-## Application en ligne
+L'application est déployée sur **Microsoft Azure App Service**.
 
-👉 **Azure App Service**
-
-**Lien :**
-
-## 🌐 Démonstration
-
-L'application est disponible à l'adresse suivante :
+🔗 **Accéder au dashboard :**
 
 🔗 [Bank Fraud Analytics Dashboard](https://bank-fraud-dashboard-c4esada6b0f0fkdp.francecentral-01.azurewebsites.net/)
 
@@ -330,12 +338,10 @@ Le projet est désormais entièrement fonctionnel et accessible en ligne.
 
 **Yawa Silvère ADODO-DAHOUE**
 
-Étudiante en Data Engineering & Data Analytics
 
 GitHub :
 https://github.com/adys-s
 
 ---
 
-⭐ Si ce projet vous a intéressé, n'hésitez pas à le consulter, à laisser une étoile sur GitHub ou à me contacter pour échanger autour de la Data, du Cloud et du Machine Learning.# bank-fraud-analytics-dashboard
-Interactive dashboard for exploratory analysis of banking fraud transactions built with Python, Streamlit and Microsoft Azure.
+⭐ Si ce projet vous a intéressé, n'hésitez pas à le consulter, à laisser une étoile sur GitHub ou à me contacter pour échanger autour de la Data, du Cloud et du Machine Learning.
