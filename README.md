@@ -2,10 +2,6 @@
 
 > Dashboard interactif d'analyse exploratoire des fraudes bancaires développé avec **Python**, **Streamlit** et **Microsoft Azure**.
 
-# 🛡️ Bank Fraud Analytics Dashboard
-
-> Dashboard interactif d'analyse exploratoire des fraudes bancaires développé avec **Python**, **Streamlit** et **Microsoft Azure**.
-
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4)
