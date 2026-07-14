@@ -206,19 +206,26 @@ bank-fraud-analytics-dashboard/
 
 ## 🏠 Accueil
 
-*(Ajouter une capture d'écran)*
+La page d'accueil présente les indicateurs clés du projet et les objectifs de l'analyse.
+
+![Accueil](actifs/Page_Acc.png)
+
 
 ---
 
 ## 💰 Analyse des montants
 
-*(Ajouter une capture d'écran)*
+Cette visualisation illustre la distribution des montants des transactions bancaires au sein du jeu de données.
+
+![Transaction Amount](images/amount_histogram.png)
 
 ---
 
 ## 📈 Matrice de corrélation
 
-*(Ajouter une capture d'écran)*
+Cette visualisation met en évidence les relations entre les différentes variables du jeu de données.
+
+![Correlation Matrix](images/correlation_matrix.png)
 
 ---
 
