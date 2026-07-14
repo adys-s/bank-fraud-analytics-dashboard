@@ -265,7 +265,11 @@ streamlit run app.py
 
 **Lien :**
 
-[bank-fraud-dashboard-c4esada6b0f0fkdp.francecentral-01.azurewebsites.net](https://bank-fraud-dashboard-c4esada6b0f0fkdp.francecentral-01.azurewebsites.net/)
+## 🌐 Démonstration
+
+L'application est disponible à l'adresse suivante :
+
+🔗 [Bank Fraud Analytics Dashboard](https://bank-fraud-dashboard-c4esada6b0f0fkdp.francecentral-01.azurewebsites.net/)
 
 ---
 
@@ -330,9 +334,6 @@ Le projet est désormais entièrement fonctionnel et accessible en ligne.
 
 GitHub :
 https://github.com/adys-s
-
-LinkedIn :
-*(Ajouter ton profil LinkedIn)*
 
 ---
 
