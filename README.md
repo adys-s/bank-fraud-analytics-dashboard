@@ -265,7 +265,7 @@ streamlit run app.py
 
 **Lien :**
 
-*(Ajouter l'URL Azure ici)*
+bank-fraud-dashboard-c4esada6b0f0fkdp.francecentral-01.azurewebsites.net
 
 ---
 
